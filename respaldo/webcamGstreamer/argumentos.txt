@@ -1,1 +1,0 @@
-python3 webcam.py --video-encoding h264 --our-id 0970
