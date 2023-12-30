@@ -3,7 +3,7 @@ requires = ["cffi>=1.0.0", "setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "aiortc"
+name = "aiortcPatch"
 description = "An implementation of WebRTC and ORTC"
 readme = "README.rst"
 requires-python = ">=3.7"
